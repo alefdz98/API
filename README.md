@@ -7,7 +7,7 @@
 		<h3>Repository:</h3>
 	    <a href="https://github.com/gti-sos/SOS2021-02">gti-sos/SOS2021-02</a>
 		<h3>URL:</h3>
-		<a href="http://sos2021-02.herokuapp.com/">http://sos2021-02.herokuapp.com</a>
+		<a href="https://wine-stats.herokuapp.com/">https://wine-stats.herokuapp.com</a>
 		<h3>APIs:</h3>
 		<ul>
 		 <li>
