@@ -1,13 +1,10 @@
 <html>
 	<body>
 		<h1>SOS2021-02</h1>
-		<h3>Team</h3>
 		<ul>
         <li><h3> <a href="https://github.com/alefdz98"> Alejandro Fernández Baena</a></h3></li>
 		</ul>
-   	    <h3>Project description:</h3>
-		<p>Nuestras fuentes de información están orientadas a comparar la producción de vino en los diferentes países que más rendimiento sacan de ellos.</p>
-	    <h3>Repository:</h3>
+		<h3>Repository:</h3>
 	    <a href="https://github.com/gti-sos/SOS2021-02">gti-sos/SOS2021-02</a>
 		<h3>URL:</h3>
 		<a href="http://sos2021-02.herokuapp.com/">http://sos2021-02.herokuapp.com</a>
